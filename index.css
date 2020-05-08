@@ -48,7 +48,7 @@
 }
 @media screen and (max-width:900px){
     .btn{
-      width: 400px;
+      width: 300px;
     }
 }
 .btn:hover{
@@ -71,8 +71,8 @@
 }
 @media screen and (max-width: 800px) {
     .about-me{
-        margin-left: 42px;
-        width: 400px;
+        margin-left: 10px;
+        width: 350px;
     }
 }
 .about-detail{
@@ -95,8 +95,8 @@
 }
 @media screen and (max-width: 800px) {
     .educational{
-        margin-left:42px ;
-        width: 400px;
+        margin-left:10px ;
+        width: 350px;
     }
 }
 .educational-detail{
