@@ -48,7 +48,7 @@
 }
 @media screen and (max-width:900px){
     .btn{
-      width: 300px;
+      width: 350px;
     }
 }
 .btn:hover{
@@ -71,7 +71,7 @@
 }
 @media screen and (max-width: 800px) {
     .about-me{
-        margin-left: 10px;
+        margin-left: 20px;
         width: 350px;
     }
 }
@@ -95,7 +95,7 @@
 }
 @media screen and (max-width: 800px) {
     .educational{
-        margin-left:10px ;
+        margin-left:20px ;
         width: 350px;
     }
 }
@@ -106,7 +106,7 @@
 }
 @media screen and (max-width: 800px) {
     .educational-detail{
-        font-size: 3.3rem;
+        font-size: 3rem;
     }
 }
 .u{
@@ -127,7 +127,7 @@
 }
 @media screen and (max-width:900px){
     .about-para{
-        font-size:1.7rem;
+        font-size:1.4rem;
     }
 }
 .about-para1{
