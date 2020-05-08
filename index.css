@@ -71,7 +71,7 @@
 }
 @media screen and (max-width: 800px) {
     .about-me{
-        margin-left: 42px;
+        margin-left: 0px;
         width: 400px;
     }
 }
@@ -95,7 +95,7 @@
 }
 @media screen and (max-width: 800px) {
     .educational{
-        margin-left:42px ;
+        margin-left:0px ;
         width: 400px;
     }
 }
